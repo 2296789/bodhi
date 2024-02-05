@@ -10874,6 +10874,7 @@ html {
 }
 
 #sidebar-wrapper {
+  top: -1%;
   position: fixed;
   z-index: 2;
   right: 0;
